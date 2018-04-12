@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="19px" viewBox="0 0 23 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_equal</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-40.0%" y="-54.5%" width="180.0%" height="209.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.996078431   0 0 0 0 0.792156863   0 0 0 0 0.392156863  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.3062681%" id="linearGradient-2">
+            <stop stop-color="#FECA64" offset="0%"></stop>
+            <stop stop-color="#FFD982" offset="36.7074603%"></stop>
+            <stop stop-color="#FFE79D" offset="51.4947616%"></stop>
+            <stop stop-color="#FFD983" offset="67.6887645%"></stop>
+            <stop stop-color="#FECA64" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3" transform="translate(-1243.000000, -129.000000)" fill="url(#linearGradient-2)">
+            <g id="Group-14-Copy-4" filter="url(#filter-1)" transform="translate(1247.000000, 133.000000)">
+                <path d="M0.75,7.85714286 L14.25,7.85714286 C14.6642136,7.85714286 15,8.19292929 15,8.60714286 L15,10.25 C15,10.6642136 14.6642136,11 14.25,11 L0.75,11 C0.335786438,11 1.61748834e-16,10.6642136 1.11022302e-16,10.25 L1.11022302e-16,8.60714286 C6.02957711e-17,8.19292929 0.335786438,7.85714286 0.75,7.85714286 Z M0.75,0 L14.25,1.11022302e-16 C14.6642136,3.49325055e-17 15,0.335786438 15,0.75 L15,2.39285714 C15,2.80707071 14.6642136,3.14285714 14.25,3.14285714 L0.75,3.14285714 C0.335786438,3.14285714 1.61748834e-16,2.80707071 1.11022302e-16,2.39285714 L1.11022302e-16,0.75 C6.02957711e-17,0.335786438 0.335786438,1.87112099e-16 0.75,1.11022302e-16 Z" id="icn_equal"></path>
+            </g>
+        </g>
+    </g>
+</svg>

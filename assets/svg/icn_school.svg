@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="54px" viewBox="0 0 52 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_school</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#B1BBC8" offset="0%"></stop>
+            <stop stop-color="#798597" offset="100%"></stop>
+        </linearGradient>
+        <path d="M25.9759798,2 L45,11.5542857 L45,15.3942857 L7,15.3942857 L7,11.5542857 L25.9759798,2 Z M34.9595449,19.1428571 L40.9646018,19.1428571 L40.9646018,32.5371429 L34.9595449,32.5371429 L34.9595449,19.1428571 Z M7,42 L7,36.2857143 L45,36.2857143 L45,42 L7,42 Z M22.9494311,19.1428571 L28.954488,19.1428571 L28.954488,32.5371429 L22.9494311,32.5371429 L22.9494311,19.1428571 Z M10.9393173,19.1428571 L16.9443742,19.1428571 L16.9443742,32.5371429 L10.9393173,32.5371429 L10.9393173,19.1428571 Z" id="path-2"></path>
+        <filter x="-34.2%" y="-20.0%" width="168.4%" height="165.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.474509804   0 0 0 0 0.521568627   0 0 0 0 0.592156863  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="DSD-Real-Estate" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icn_school">
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+        </g>
+    </g>
+</svg>

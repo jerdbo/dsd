@@ -1,0 +1,38 @@
+{
+  "configVersion": 1,
+  "index": "/dsd/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/dsd/favicon.ico",
+        "/dsd/index.html",
+        "/dsd/inline.318b50c57b4eba3d437b.bundle.js",
+        "/dsd/main.4402ebec75f9083fc87f.bundle.js",
+        "/dsd/polyfills.c1b408c6abde9b40ec2d.bundle.js",
+        "/dsd/styles.d5d28d92e5de29e9ec96.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": [
+        "https:\\/\\/cataas\\.com\\/.*"
+      ]
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/dsd/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "/dsd/main.4402ebec75f9083fc87f.bundle.js": "cb595e516d9e805a80b7709524e17d34f6b6af60",
+    "/dsd/polyfills.c1b408c6abde9b40ec2d.bundle.js": "5dea04dd65d26cb670c357f4211913bd6d4b81b9",
+    "/dsd/styles.d5d28d92e5de29e9ec96.bundle.css": "65410f2fac8cf2ca29677e4362622a8f3e5f6fad",
+    "/dsd/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/dsd/index.html": "2b7382a399ac94a64b00beffed93968ac9833197"
+  }
+}

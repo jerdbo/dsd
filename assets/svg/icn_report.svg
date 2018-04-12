@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="21px" viewBox="0 0 18 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_report</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#5ECAF9" offset="0%"></stop>
+            <stop stop-color="#3099F0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.789999962">
+        <g id="3" transform="translate(-879.000000, -829.000000)" fill="url(#linearGradient-1)">
+            <g id="Path-45-Copy-10" transform="translate(854.000000, 796.000000)">
+                <path d="M34.984,40.6 L40.528,40.6 L34.984,35.104 L34.984,40.6 Z M28,33.616 L36.016,33.616 L42.016,39.616 L42.016,51.616 C42.016,52.1600027 41.816002,52.6239981 41.416,53.008 C41.015998,53.3920019 40.5440027,53.584 40,53.584 L28,53.584 C27.4559973,53.584 26.984002,53.3920019 26.584,53.008 C26.183998,52.6239981 25.984,52.1600027 25.984,51.616 L26.032,35.584 C26.032,35.0399973 26.2239981,34.5760019 26.608,34.192 C26.9920019,33.8079981 27.4559973,33.616 28,33.616 Z" id="icn_report"></path>
+            </g>
+        </g>
+    </g>
+</svg>
